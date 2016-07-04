@@ -1,0 +1,73 @@
+body
+{
+  background-color: #F2E6CE;
+  font-family: 'Alegreya', serif;
+  font-weight: 400;
+  font-size:24px;
+  
+}
+
+#continer
+{
+  
+
+  width:auto;
+}
+.top
+{  
+  margin:auto;
+  text-align:center;
+  padding:10px;
+  width:auto;
+  background-color:#A6460F;
+  
+}
+.menu
+{
+  
+  text-align:center;
+  padding:10px;
+  width:auto;
+  margin-bottom:30px;
+  background-color:#F29441;
+  
+}
+.map
+{
+ width:1000px;
+ background-color:#8A8C3B;
+ margin:auto;
+ position:relative;
+  
+  
+  
+}
+
+.bg
+{
+ 
+  z-index:2;
+  
+}
+.view
+{
+  
+  
+}
+.main
+{
+  position:absolute;
+  z-index:1;
+  left:291px;
+  top:107px;
+  
+}
+.empty
+{
+  
+   position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 4;
+  
+}
